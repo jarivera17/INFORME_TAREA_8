@@ -12,9 +12,28 @@ Capítulos: 15 y 16
 
 OBJETIVO GENERAL
 
-Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de aplicación de los capítulos 13 y 14 del libro "Principios de circuitos eléctricos" de Floyd, a los cuales corresponden los temas: "Inductores" y "Transformadores", analizando cada subtema respectivo, en lo que involucra: definiciones, fórmulas y aplicaciones.
+Estudiar y comprender la base teórica y a su vez, resolver los ejercicios de aplicación de los capítulos 15 y 16 del libro "Principios de circuitos eléctricos" de Floyd, a los cuales corresponden los temas: "Circuitos RC" y "Circuitos RL", analizando cada subtema respectivo, en lo que involucra: definiciones, fórmulas y aplicaciones.
+
+OBJETIVOS ESPECÍFICOS
+
+* Utilizar números complejos para expresar cantidades fasoriales.
+* Describir la relación entre corriente y voltaje en un circuito RC en serie.
+* Determinar la impedancia de un circuito RC en serie.
+* Analizar un circuito RC en serie.
+* Determinar impedancia y admitancia en un circuito RC en paralelo.
+* Analizar un circuito RC en paralelo.
+* Analizar circuitos RC en serie-paralelo.
+* Determinar la potencia en circuitos RC.
+* Examinar algunas aplicaciones básicas de los circuitos RC.
 
 ## 2. MARCO TEÓRICO
+
+![1](https://user-images.githubusercontent.com/116693260/220921008-111cee15-17cb-4bd8-8413-552e867b28f1.jpg)
+
+![2](https://user-images.githubusercontent.com/116693260/220921017-4a719a26-1652-46cf-91da-6f613ac45ef0.jpg)
+
+![4](https://user-images.githubusercontent.com/116693260/220921022-641ebf6e-1f53-485e-b5a5-bcf07bb9e70e.jpg)
+
 
 ## 3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -338,4 +357,22 @@ Diagrama fasorial:
 
 ![image](https://user-images.githubusercontent.com/116693260/219096288-b7abbee2-be5a-49a5-862a-20868143f62b.png)
 
+## 4. VIDEO
 
+https://uespe-my.sharepoint.com/✌️/g/personal/jarivera17_espe_edu_ec/EcecmXWxeKtOg49XI5XNyXUBQGE_-TMLM2fmoL0fXI_NZA?e=c2pGjp
+
+## 5. CONCLUSIONES
+
+* Los números complejos permiten realizar operaciones matemáticas con cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. 
+* Cuando se aplica un voltaje sinusoidal a un circuito RC dispuesto en serie, las caídas de voltaje y de corriente resultantes en el circuito son también sinusoidales y tienen la misma frecuencia que el voltaje aplicado.
+* La impedancia de un circuito RC en serie consta de resistencia y reactancia capacitiva y es la oposición total a la corriente sinusoidal. Su unidad es el ohm.
+* En esta sección, la ley de Ohm y la ley del voltaje de Kirchhoff se utilizan en el análisis de circuitos RC dispuestos en serie para determinar voltaje, corrientes e impedancia. Además, se examinan circuitos RC de adelanto y retraso.
+* La impedancia se compone de un componente de magnitud y un componente de ángulo de fase.
+* La ley de Ohm y la ley de la corriente de Kirchhoff se utilizan en el análisis de circuitos RC.
+* Se examinan las relaciones de corriente y voltaje en un circuito RC dispuesto en paralelo. Los conceptos estudiados con respecto a circuitos dispuestos en serie-paralelo se utilizan para analizar circuitos que tienen combinaciones de componentes R y C tanto en serie como en paralelo.
+* En un circuito de ca puramente resistivo, la resistencia disipa toda energía suministrada por la fuente en forma de calor. En un circuito de ca puramente capacitivo, el capacitor guarda toda energía suministrada por la fuente durante una parte del ciclo de voltaje y luego la regresa a la fuente durante otra parte del ciclo, de modo que no hay conversión de energía en calor. 
+* Los circuitos RC se encuentran en diversas aplicaciones, a menudo como parte de un circuito más complejo. Tres aplicaciones son los osciladores de desplazamiento de fase, los circuitos selectores de frecuencia (filtros), y el acoplamiento de ca.
+
+## 6. BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion
