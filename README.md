@@ -25,11 +25,6 @@ OBJETIVOS ESPECÍFICOS
 * Analizar circuitos RC en serie-paralelo.
 * Determinar la potencia en circuitos RC.
 * Examinar algunas aplicaciones básicas de los circuitos RC.
-* Analizar un circuito en cuanto a resonancia en paralelo.
-* Analizar circuitos RLC en serie-paralelo.
-* Determinar el ancho de banda de circuitos resonantes.
-* Analizar algunas aplicaciones de circuitos resonantes.
-
 
 
 ## 2. MARCO TEÓRICO
@@ -377,11 +372,6 @@ https://uespe-my.sharepoint.com/✌️/g/personal/jarivera17_espe_edu_ec/EcecmXW
 * La ley de Ohm y la ley de la corriente de Kirchhoff se utilizan en el análisis de circuitos RC.
 * Se examinan las relaciones de corriente y voltaje en un circuito RC dispuesto en paralelo. Los conceptos estudiados con respecto a circuitos dispuestos en serie-paralelo se utilizan para analizar circuitos que tienen combinaciones de componentes R y C tanto en serie como en paralelo.
 * En un circuito de ca puramente resistivo, la resistencia disipa toda energía suministrada por la fuente en forma de calor. En un circuito de ca puramente capacitivo, el capacitor guarda toda energía suministrada por la fuente durante una parte del ciclo de voltaje y luego la regresa a la fuente durante otra parte del ciclo, de modo que no hay conversión de energía en calor. 
-* Los circuitos RC se encuentran en diversas aplicaciones, a menudo como parte de un circuito más complejo. Tres aplicaciones son los osciladores de desplazamiento de fase, los circuitos selectores de frecuencia (filtros), y el acoplamiento de ca.
-* De manera ideal, la resonancia en paralelo ocurre cuando XC 5 XL. La frecuencia a la cual ocurre la resonancia se llama frecuencia resonante, exactamente como en el caso en serie. 
-* En la mayoría de las situaciones prácticas, una resistencia de carga externa aparece en paralelo con un circuito tanque no ideal.
-* En un circuito RLC dispuesto en serie, la corriente alcanza su valor máximo a la frecuencia resonante porque las reactancias se eliminan entre sí. En un circuito RLC en paralelo, la corriente es mínima en la frecuencia resonante porque las corrientes inductiva y capacitiva se eliminan entre sí. Este comportamiento del circuito se relaciona con una característica llamada ancho de banda.
-* Se utilizan circuitos resonantes en una amplia variedad de aplicaciones, particularmente en sistemas de comunicación.
 
 ## 6. BIBLIOGRAFÍA
 
